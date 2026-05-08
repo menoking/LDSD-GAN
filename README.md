@@ -2,7 +2,7 @@
 
 ---
 
-![应用预览](.\icon\LDSD-GAN.png)
+![应用预览](./icon/LDSD-GAN.png)
 
 ## Introduction
 
