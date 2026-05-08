@@ -1,5 +1,10 @@
 # LDSD-GAN
 
+![Stargazers](https://img.shields.io/github/stars/menoking/LDSD-GAN?style=flat-square)
+![Forks](https://img.shields.io/github/forks/menoking/LDSD-GAN?style=flat-square)
+![Issues](https://img.shields.io/github/issues/menoking/LDSD-GAN?style=flat-square)
+![Downloads](https://img.shields.io/github/downloads/menoking/LDSD-GAN/total?style=flat-square)
+
 ---
 
 ## Introduction
